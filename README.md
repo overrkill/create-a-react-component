@@ -3,7 +3,7 @@
 
 ## Installation :
  
-```npm i -g create-react-component```
+```npm i -g create-a-react-component```
  
 
 ## Usage :
