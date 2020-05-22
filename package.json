@@ -1,0 +1,30 @@
+{
+  "name": "create-react-component",
+  "version": "1.0.0",
+  "description": "creates a react component ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "create-react-component": "./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/overrkill/create-react-component.git"
+  },
+  "keywords": [
+    "react",
+    "CRA",
+    "node"
+  ],
+  "author": "Abhishek Kale (Overrkill)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/overrkill/create-react-component/issues"
+  },
+  "homepage": "https://github.com/overrkill/create-react-component#readme",
+  "dependencies": {
+    "chalk": "^4.0.0"
+  }
+}
