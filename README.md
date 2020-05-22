@@ -1,14 +1,19 @@
 # create-react-component
-setup a golbal command to make structured react components
+:cupcake: setup a golbal command to make structured react components 	:innocent:
 
-# Installation :
+## Installation :
  
- npm i -g create-react-component
+```npm i -g create-react-component```
  
 
-# Usage :
+## Usage :
 
   
-  create-react-component  ComponentName  [extension] [style]
+ ```
+  create-react-component  ComponentName  [extension] [style] 
     - extention : js(default)/ts/jsx/tsx
     - style     : css(default)/sass/scss
+  ```
+
+
+:heart: ___Overrkill Abhishek Kale___
