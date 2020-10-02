@@ -12,7 +12,7 @@
 const chalk = require('chalk');
 const fs = require('fs');
 const help = "\n\ncreate-react-component  ComponentName  [extension] [style]\n\n \t - extension -- js(default)/ts/tsx/jsx\n\t - style -- css(default)/scss/sass\n\n follows npm convention for naming folders\n\n";
-const msg = " invalid Options try create-react-component --help or -h ";
+const msg = " invalid Options Please try create-react-component --help or -h ";
 //
 
 
